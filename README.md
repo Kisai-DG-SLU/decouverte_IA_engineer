@@ -38,6 +38,13 @@ Il s’agit d’une étape essentielle pour bien comprendre le fonctionnement du
 
 ---
 
+## 📘 Pour aller plus loin
+
+Retrouvez une synthèse complète et accessible de ce premier projet dans le billet de vulgarisation suivant :  
+➡️ [Comprendre l'intelligence artificielle](./Comprendre_IA.md)
+
+---
+
 ## À propos de la suite
 
 Les prochains projets seront axés sur la réalisation de livrables concrets, dans des scénarios inspirés du monde professionnel.  
