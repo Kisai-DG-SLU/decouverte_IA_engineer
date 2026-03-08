@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.envrc
+.DS_Store
+.coverage
+htmlcov/
+pixi.lock
+.pixi/
+data/
+_bmad-output/
